@@ -24,8 +24,8 @@ Similar logic here
 >= 2*T and < 3*T
 2*T =  100000....
 3*T =  110000...
-	^
-	kth bit is 0 for >= 2*T but < 3*T
+	 ^
+	 kth bit is 0 for >= 2*T but < 3*T
 */
 #include <bits/stdc++.h>
 using namespace std;
